@@ -1,0 +1,16 @@
+FILE DIRECTORY:
+
+|
+| programs/
+| manuals/
+| instructions/
+|
+|
+|
+|
+
+required: C++17 and newer.
+
+instructions are text files. first row contains PROGNAME=[PROGRAMNAME]. They are named [PROGRAMNAME].instr
+
+manuals are also text files. named [PROGRAMNAME].man
